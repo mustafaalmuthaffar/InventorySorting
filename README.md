@@ -1,6 +1,8 @@
 # InventorySorting
 Before wasting energy on sorting items plan them before hand with this app
-
+Requirements :
+Windows 7 or later
+16:9 aspect ratio monitors
 
 
 How to use:
